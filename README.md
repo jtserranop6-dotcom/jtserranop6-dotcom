@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠️ Tecnologías que voy aprendr usando:
+### 🛠️ Tecnologías que voy aprender, usando:
 
 - **Lenguajes:** HTML, CSS, JavaScript, Java, Python
 - **Herramientas:** Git, GitHub, Visual Studio Code
